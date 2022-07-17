@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Package
   - Customer
+  - Road
+  - Collider
+  - BoostSpeed
   layers:
   - Default
   - TransparentFX
